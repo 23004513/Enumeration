@@ -62,7 +62,8 @@ This operator allows you to search for pages that link to a specific URL. For ex
 
 ## cache:
 This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
-![Screenshot 2024-09-23 153734](https://github.com/user-attachments/assets/d4ed74c1-f7f9-434a-b69b-f194a97601de)
+
+![Screenshot 2024-09-23 192015](https://github.com/user-attachments/assets/c2ebb68d-50fe-4512-9c1b-07e28c4dde64)
 
  
 ## DNS Enumeration
