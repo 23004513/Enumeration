@@ -115,7 +115,7 @@ and issue appropriate commands
   
  ## Output
   
-  ![image](https://github.com/user-attachments/assets/3fbb5ce4-3d17-4b2e-8e5d-17387af587bc)
+  ![WhatsApp Image 2024-09-25 at 08 34 09_c3bb658e](https://github.com/user-attachments/assets/1f31f3c0-5db5-4f4a-9241-81861bd3696b)
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
